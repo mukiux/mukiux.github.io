@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.mukiux.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.mukiux.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Who am I</title>
+      <link>https://www.mukiux.com/posts/my-first-post/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hello, Hugo world!&lt;/p&gt;</description>
+      <guid>https://www.mukiux.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello world!&lt;/p&gt;&#xA;&lt;p&gt;I’m George Kiio, an Information Security and Data Analysis expert with over 8 years of experience navigating the ever-evolving cybersecurity landscape. I’ve built my career leading Security Operations Center (SOC) teams, orchestrating threat detection, incident response, and digital forensics—all while ensuring systems remain resilient against sophisticated cyber threats. My journey has been defined by an unwavering passion for protecting organizations and empowering teams to tackle the toughest security challenges head-on.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
