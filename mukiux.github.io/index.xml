@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello, Hugo world!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About George Kiio</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;figure class=&#34;profile-image&#34;&gt;&lt;img src=&#34;https://finsapsuite.com/login/member/imgs/17331247618896KAP000683img_profile.jpg&#34;&#xA;    alt=&#34;George Kiio Profile Picture&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;george-mukiu-kiio&#34;&gt;George Mukiu Kiio&lt;/h1&gt;&#xA;&lt;p&gt;Cybersecurity Specialist with over 8 years of experience in SOC operations, threat analysis, and cloud security. Passionate about protecting organizations from cyber threats and building resilient security frameworks. Holds certifications including CEH, CHFI, CSX-F, AWS, and CCISO.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-skills&#34;&gt;Key Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Security Operations Center (SOC) management&lt;/li&gt;&#xA;&lt;li&gt;Incident response and vulnerability assessments&lt;/li&gt;&#xA;&lt;li&gt;Cloud security architecture and governance&lt;/li&gt;&#xA;&lt;li&gt;Mentoring and capacity building in cybersecurity&lt;/li&gt;&#xA;&lt;li&gt;Vulnerability Assessment and Penetration Testing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bachelor of Science in Mathematics (Applied Mathematics option)&lt;/strong&gt;, University of Nairobi, Kenya.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;connect-with-me&#34;&gt;Connect with Me&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/mukiux&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/george-mukiu&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wa.me/254738631213&#34;&gt;WhatsApp&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://medium.com/@george-mukiu&#34;&gt;Medium&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:infox@mukiux.com&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
